@@ -1,0 +1,10 @@
+inputs:values
+input1:REPORTED_NAME
+input2:EXTENDED_SALES_PRICE
+input3:AMS,APJ,EMEA
+input4:REGION
+input5:VALIDATED_LEGAL_ID
+input6:january,february,march,april,may
+input7:2020
+input8:PARTNER_NAME
+input9:Wittichen Supply Company - Recap AL,Jackson Systems Llc - Recap IN,Don Stevens Inc - Recap ND
